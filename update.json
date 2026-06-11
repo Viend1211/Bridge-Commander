@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
+  "version": "0.4.1",
   "installer_url": "https://github.com/Viend1211/Bridge-Commander/releases/download/Setup/BridgeCommanderSetup.exe",
   "release_url": "https://github.com/Viend1211/Bridge-Commander/releases/tag/Setup",
   "whats_new": "Исправлена загрузка моделей, добавлено автообновление..."
