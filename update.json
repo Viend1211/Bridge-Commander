@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.4",
   "installer_url": "https://github.com/Viend1211/Bridge-Commander/releases/download/Setup/BridgeCommanderSetup.exe",
   "release_url": "https://github.com/Viend1211/Bridge-Commander/releases/tag/Setup",
-  "whats_new": "Исправлена загрузка моделей, добавлено автообновление..."
+  "whats_new": "Во вкладке «Модели» добавлены сохраненные баллоны избранных проверок: можно сохранить набор параметров и быстро применять его к выбранной категории."
 }
